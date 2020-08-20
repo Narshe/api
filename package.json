@@ -6,7 +6,7 @@
     "start": "cross-env PORT=3001 node ./bin/www"
   },
   "dependencies": {
-    "bcrypt": "^3.0.5",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.4",
